@@ -7,11 +7,5 @@ package com.example.jpr.basicstest;
  */
 
 public class Dev {
-<<<<<<< HEAD
 
-=======
-    //000000
-    //111111
-    //222222
->>>>>>> parent of b4e1a7e... 00000
 }
