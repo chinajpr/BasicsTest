@@ -28,13 +28,6 @@
                 android:layout_marginTop="10dp"
                 android:text="popwindow"
                 android:onClick="pop"/>
-
-            <Button
-                android:layout_width="match_parent"
-                android:layout_height="45dp"
-                android:layout_marginTop="10dp"
-                android:onClick="screen"
-                android:text="screen"/>
         </LinearLayout>
 
     </ScrollView>
