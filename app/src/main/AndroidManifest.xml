@@ -21,6 +21,7 @@
         <activity android:name="com.example.jpr.basicstest.activity.ArrayAdapterTest"></activity>
         <!--popwindow-->
         <activity android:name="com.example.jpr.basicstest.activity.PopWindowActivity"></activity>
+        <activity android:name="com.example.jpr.basicstest.activity.ScreenActivity"></activity>
     </application>
 
 </manifest>

@@ -28,4 +28,9 @@ public class MainActivity extends BaseActivity {
         Intent i = new Intent(this , PopWindowActivity.class);
         startActivity(i);
     }
+
+    public void screen(View view){
+        Intent i = new Intent(this , ScreenActivity.class);
+        startActivity(i);
+    }
 }
