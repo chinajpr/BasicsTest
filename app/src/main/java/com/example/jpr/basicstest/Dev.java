@@ -7,7 +7,6 @@ package com.example.jpr.basicstest;
  */
 
 public class Dev {
-//000000
-    //11111
+
 
 }

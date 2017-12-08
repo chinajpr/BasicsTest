@@ -7,8 +7,7 @@ package com.example.jpr.basicstest;
  */
 
 public class Master {
-//000000
-    //1111
+
 
 
 }
