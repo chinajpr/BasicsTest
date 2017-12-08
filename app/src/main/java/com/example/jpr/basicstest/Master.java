@@ -7,5 +7,5 @@ package com.example.jpr.basicstest;
  */
 
 public class Master {
-    
+
 }
