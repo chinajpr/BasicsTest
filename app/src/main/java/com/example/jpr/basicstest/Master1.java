@@ -9,5 +9,4 @@ package com.example.jpr.basicstest;
 public class Master1 {
     //00000000
     //111111111
-    //22222222222
 }
