@@ -1,0 +1,7 @@
+diff a/app/src/main/java/com/example/jpr/basicstest/Dev.java b/app/src/main/java/com/example/jpr/basicstest/Dev.java	(rejected hunks)
+@@ -14,4 +14,5 @@
+ +<<<<<<< HEAD
+ +
+ +=======
+++>>>>>>> parent of b4e1a7e... 00000
+  }
